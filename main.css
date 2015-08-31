@@ -34,3 +34,17 @@
 	border-bottom: 1px solid white;
 	color: white;
 }
+.lightbox {
+	position:relative;
+	width:600px;
+	height:450px;
+	background-color: #5a5a5c;
+}
+.light {
+	position:absolute;
+	top: 20%;
+	right: 15%;
+	width: 75%;
+	height: 60%;
+	background-color: white;
+}
