@@ -6,7 +6,7 @@
 .border td{
 	border-bottom: 1px solid slategray;
 }
-th {
+.border th {
 	border-bottom: 1px solid slategray;
 }
 .column {
@@ -22,9 +22,15 @@ th {
 	font-weight: bolder;
 	color:black;
 }
-.bargraph {
-	padding-left: 10px;
+.bargraph { 
+	font-size: 15px;
+	}
+	
+.bar {
+	width: 500px;
 }
-.bargraph td {
-	background-color: blue;
+.bardata{
+	background-color: lightblue;
+	border-bottom: 1px solid white;
+	color: white;
 }
