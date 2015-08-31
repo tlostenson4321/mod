@@ -22,3 +22,9 @@ th {
 	font-weight: bolder;
 	color:black;
 }
+.bargraph {
+	padding-left: 10px;
+}
+.bargraph td {
+	background-color: blue;
+}
