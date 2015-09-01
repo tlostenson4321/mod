@@ -47,4 +47,37 @@
 	transform: translate(-50%, -50%);
 	background-color: white;
 	width: 75%;
+	padding: 10px;
 }
+.floatleft {
+	float:left;
+}
+.header {
+	position:relative;
+}
+.lefthead {
+	position:absolute;
+	width:50px;
+}
+.afterhead {
+	margin-left: 50px;
+}
+.nested {
+	position:absolute;
+	width:50px;
+}
+.nest-one {
+	margin-left: 50px;
+}
+.nest-pic {
+	position:absolute;
+	margin-left: 50px;
+}
+.nest-two {
+	margin-left: 83px;
+}
+.nestrel {
+	position:relative;
+}
+
+
